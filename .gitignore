@@ -1,2 +1,7 @@
+# Editors
+
 .idea
 .vscode
+
+# File Types (Builds etc.)
+*.class
