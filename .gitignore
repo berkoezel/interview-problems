@@ -2,6 +2,6 @@
 
 .idea
 .vscode
-
+.vim
 # File Types (Builds etc.)
 *.class
